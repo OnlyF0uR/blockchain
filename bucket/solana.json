@@ -13,8 +13,8 @@
     "bin": [
         "cargo-build-sbf.exe",
         "cargo-test-sbf.exe",
-        "solana-install-init.exe",
-        "solana-install.exe",
+        "agave-install-init.exe",
+        "agave-install.exe",
         "solana-keygen.exe",
         "solana-stake-accounts.exe",
         "solana-test-validator.exe",
