@@ -26,6 +26,10 @@
     "checkver": {
         "github": "https://github.com/anza-xyz/agave"
     },
+    "depends": [
+        "rustup",
+        "rust"
+    ],
     "autoupdate": {
         "architecture": {
             "64bit": {
