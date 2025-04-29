@@ -11,8 +11,8 @@
         }
     },
     "bin": [
-        "cargo-build-bpf.exe",
-        "cargo-test-bpf.exe",
+        "cargo-build-sbf.exe",
+        "cargo-test-sbf.exe",
         "solana-install-init.exe",
         "solana-install.exe",
         "solana-keygen.exe",
@@ -26,10 +26,6 @@
     "checkver": {
         "github": "https://github.com/anza-xyz/agave"
     },
-    "depends": [
-        "rustup",
-        "rust"
-    ],
     "autoupdate": {
         "architecture": {
             "64bit": {
