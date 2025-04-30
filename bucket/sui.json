@@ -3,7 +3,6 @@
     "description": "Sui",
     "homepage": "https://sui.io",
     "license": "Apache-2.0",
-    "extract_dir": ".",
     "architecture": {
         "64bit": {
             "url": "https://github.com/MystenLabs/sui/releases/download/mainnet-v1.47.1/sui-mainnet-v1.47.1-windows-x86_64.tgz",
